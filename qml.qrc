@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>content/images/icon-left-arrow.png</file>
+        <file>content/PortfolioListView.qml</file>
+        <file>content/SchemeListView.qml</file>
+        <file>content/images/addition.png</file>
+    </qresource>
+</RCC>
